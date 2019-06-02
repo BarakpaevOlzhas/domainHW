@@ -1,0 +1,7 @@
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\bin\Debug\DownloadApp.exe.config
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\bin\Debug\DownloadApp.exe
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\bin\Debug\DownloadApp.pdb
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\obj\Debug\DownloadApp.csprojAssemblyReference.cache
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\obj\Debug\DownloadApp.csproj.CoreCompileInputs.cache
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\obj\Debug\DownloadApp.exe
+c:\users\баракпаево\source\repos\DownloadApp\DownloadApp\obj\Debug\DownloadApp.pdb
